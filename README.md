@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordondoug2019 aka Jordon Douglas
 - 👀 I’m interested in mobile app development and UX/UI Design
-- 🌱 I’m currently learning the .NET Framework and Dart Programming Language 
+- 🌱 I’m currently learning how to create apps using Flutter's UI kit
 - 💞️ I’m looking to collaborate on web applications and design!
 - 📫 How to reach me: jdouglas2015@gmail.com
 
