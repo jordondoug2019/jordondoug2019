@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jordondoug2019 aka Jordon Douglas
-- 👀 I’m interested in mobile app development and UX/UI Design
-- 🌱 I’m currently learning how to create apps using Flutter's UI kit
-- 💞️ I’m looking to collaborate on web applications and design!
+- 👀 I’m interested in Cloud Infrastructure and AI 
+- 🌱 I’m currently learning more about Cloud Infrastructure with Kura Labs
 - 📫 How to reach me: jdouglas2015@gmail.com
 
 <!---
