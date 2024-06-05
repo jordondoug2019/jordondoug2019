@@ -1,7 +1,40 @@
-- 👋 Hi, I’m @jordondoug2019 aka Jordon Douglas
-- 👀 I’m interested in Cloud Infrastructure and AI 
-- 🌱 I’m currently learning more about Cloud Infrastructure with Kura Labs
-- 📫 How to reach me: jdouglas2015@gmail.com
+<h2> Hey there! I'm Jo.</h2>
+
+<h3> 👨🏻‍💻  About Me </h3>
+
+🤔 I like creating things with my hands—anything from tea, crotchet hats, and web applications. 
+
+🎓 B.S Psychology- Tennessee State University 
+   Master's of Management: Non-Profit- Lipscomb University 
+
+💼 Aspiring AI Infrastructure Engineer
+
+🌱 Currently learning to live in the cloud with Kura Labs
+
+
+<h3> 🛠  Tech Stack</h3>
+
+💻
+
+🌐
+
+🛢
+
+⚙️
+
+🔧
+
+🖥
+
+<br/>
+
+<h3> 🤝🏻  Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jordondouglas/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jordon%Douglas-orange?style=flat-square&logo=linkedi></a>
+<a href="jdouglas.kuralabs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jdouglas.kuralabs@gmail.com-orange?style=flat-square&logo=gmail"></a>
+</p>
 
 <!---
 jordondoug2019/jordondoug2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
