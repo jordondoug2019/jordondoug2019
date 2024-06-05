@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Jo.</h2>
+<h2> Hey there! I'm Jordon.</h2>
 
 <h3> 👨🏻‍💻  About Me </h3>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://www.kuralabs.org/"&gt;&lt;img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jordondouglas/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jordon%Douglas-orange?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jordondouglas/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jordon%20Douglas-orange?style=flat-square&logo=linkedin"></a>
 <a href="jdouglas.kuralabs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jdouglas.kuralabs@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
 
