@@ -7,7 +7,7 @@
 🎓 B.S Psychology- Tennessee State University 
    Master's of Management: Non-Profit- Lipscomb University 
 
-💼 Aspiring AI Infrastructure Engineer
+💼 Aspiring Cloud Infrastructure Engineer
 
 🌱 Currently learning to live in the cloud with Kura Labs
 
