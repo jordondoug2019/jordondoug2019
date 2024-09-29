@@ -14,17 +14,19 @@
 
 <h3> 🛠  Tech Stack</h3>
 
-💻
+💻 Python, Bash, SQL
 
-🌐
+🌐 AWS (EC2, S3, VPC, Lambda)
 
-🛢
 
-⚙️
 
-🔧
+🛢 MySQL
 
-🖥
+⚙️  Jenkins
+
+🔧 Prometheus, Grafana
+
+🖥 Git, GitHub
 
 <br/>
 
