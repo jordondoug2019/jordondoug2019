@@ -16,13 +16,11 @@
 
 💻 Python, Bash, SQL
 
-🌐 AWS (EC2, S3, VPC, Lambda)
-
-
+🌐 AWS (EC2, S3, VPC, VPC Peering, IAM, CIDR Blocks, Route Tables, etc)
 
 🛢 MySQL
 
-⚙️  Jenkins
+⚙️  Jenkins Terraform
 
 🔧 Prometheus, Grafana
 
