@@ -1,30 +1,10 @@
 <h2> Hey there! I'm Jordon.</h2>
 
-<h3> 👨🏻‍💻  About Me </h3>
-
-🤔 I like creating things with my hands—anything from tea, crotchet hats, and web applications. 
-
-🎓 B.S Psychology- Tennessee State University 
-   Master's of Management: Non-Profit- Lipscomb University 
-
-💼 Aspiring Cloud Infrastructure Engineer
-
-🌱 Currently learning to live in the cloud with Kura Labs
+<h3> 👨🏻‍💻  I'm a cross platform app developer </h3>
 
 
 <h3> 🛠  Tech Stack</h3>
-
-💻 Python, Bash, SQL
-
-🌐 AWS (EC2, S3, VPC, VPC Peering, IAM, CIDR Blocks, Route Tables, etc)
-
-🛢 MySQL
-
-⚙️  Jenkins Terraform
-
-🔧 Prometheus, Grafana
-
-🖥 Git, GitHub
+<p> Flutter, Firebase, AWS, Docker, Terraform, Jenkins, Python, Bash </p>
 
 <br/>
 
