@@ -12,7 +12,6 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jordondouglas> LinkedIn</a>
 <a href="jdouglas2015@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jdouglas2015@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
 
